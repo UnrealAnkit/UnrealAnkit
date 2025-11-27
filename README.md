@@ -1,50 +1,29 @@
-<!-- Banner -->
+<h1 align="center">👋 Hey, I'm Ankit (aka UnrealAnkit)</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&width=600&lines=Hey%2C+I'm+Ankit+%F0%9F%91%8B;Full+Stack+Developer+%E2%9A%A1;SaaS+Builder+%F0%9F%9A%80;AI+%26+Web3+Explorer+%F0%9F%A7%AA" alt="Typing SVG" />
+  🚀 Full Stack Developer • 🧠 100x Learner • 🔥 SaaS & AI Explorer  
+  <br/> 🎓 IILM University (2nd Year) • 📍 Noida, India
 </p>
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
-
+<!-- Typing Animation -->
 <p align="center">
-💡 I love building <b>real-world applications</b> <br/>
-🧠 Always learning · Always experimenting<br/>
-🔥 Currently working on <b>SaaS, AI & Web3</b><br/>
-🎯 Manifesting success via <code>npm install</code>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2800&pause=1000&color=00E8F8&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;SaaS+Builder;AI+Experimenter;Web3+Explorer;Always+Learning+%F0%9F%94%9A" />
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Overview</h2>
+## 🧠 About Me
 
-<div align="center">
-  
-| GitHub Stats | Streak | Languages |
-|---|---|---|
-| <img height="150" src="https://github-readme-stats.vercel.app/api?username=UnrealAnkit&show_icons=true&theme=tokyonight&hide_border=true" /> | <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=UnrealAnkit&theme=tokyonight&hide_border=true" /> | <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnrealAnkit&layout=compact&theme=tokyonight&hide_border=true" /> |
-
-</div>
+💡 I build **real-world products** that solve problems  
+🔥 Currently learning **SaaS, AI & Web3 development**  
+⚡ Manifesting success via `npm install`  
+🤝 DMs always open — love working with people!
 
 ---
 
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UnrealAnkit&theme=react-dark&hide_border=true&radius=10" />
-</p>
-
----
-
-<h2 align="center">🏆 GitHub Trophy Showcase</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UnrealAnkit&theme=radical&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
-</p>
-
----
-
-<h2 align="center">🧰 Tech Stack</h2>
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,postgres,tailwind,git,github,firebase,python,aws&perline=7" />
@@ -52,43 +31,57 @@
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+## 📊 GitHub Overview
 
-<details open>
-  <summary><b>🧠 Click to View Projects</b></summary><br/>
-  
-| Project | Description | Tech |
-|--------|-------------|------|
-| **CH2 World** | Healing ecosystem connecting science & soul | React · Next.js · TS |
-| **SHELeads** | Empowering women entrepreneurs | Next.js · Tailwind |
-| **RK Visa Solutions** | Immigration & consulting platform | SaaS · Next.js |
-| **AsliAstro** | AI-powered astrology engine | React · APIs |
-  
-</details>
+<div align="center">
+
+| Stats | Streak |
+|------|-------|
+| <img src="https://github-readme-stats.vercel.app/api?username=UnrealAnkit&show_icons=true&theme=tokyonight&hide_border=true" height="150"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=UnrealAnkit&theme=tokyonight&hide_border=true" height="150"/> |
+
+</div>
 
 ---
 
-<h2 align="center">💼 My Experience</h2>
-
-| Company | Role | Duration |
-|---|---|---|
-| 🎮 Sanity Gaming | Full Stack Developer | Jun 2025 – Sep 2025 |
-| 🤖 AIPivot | Software Developer Intern | Dec 2024 – Mar 2025 |
-| 🌐 Devdock | Campus Ambassador | Ongoing |
-
----
-
-<h2 align="center">📬 Connect With Me</h2>
+## 📈 Contribution Graph
 
 <p align="center">
-  <a href="mailto:work.ankit2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UnrealAnkit&theme=react-dark&hide_border=true&radius=6" />
 </p>
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
+## 🚀 Featured Projects
 
-```md
-![snake gif](https://github.com/UnrealAnkit/UnrealAnkit/blob/output/github-contribution-grid-snake.svg)
+| Project | Description | Tech |
+|--------|-------------|------|
+| **CH2 World** | Healing ecosystem powered by science & soul | Next.js & TS |
+| **SHELeads** | Infra for women entrepreneurs | React & Tailwind |
+| **RK Visa Solutions** | SaaS for immigration services | Next.js |
+| **AsliAstro** | AI-based astrology platform | React & APIs |
+
+---
+
+## 💼 Experience
+
+| Role | Company | Duration |
+|------|---------|----------|
+| 🔥 Full Stack Dev | Sanity Gaming | Jun 2025 – Sep 2025 |
+| 🤖 AI Intern | AIPivot | Dec 2024 – Mar 2025 |
+| 🌐 Campus Ambassador | Devdock | Ongoing |
+
+---
+
+## 📬 Let’s Connect
+
+<p align="center">
+  <a href="mailto:work.ankit2@gmail.com">📩 Gmail</a> •
+  <a href="https://linkedin.com">💼 LinkedIn</a> •
+  <a href="https://twitter.com/">🐦 Twitter</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3500&pause=1000&color=00E8F8&center=true&vCenter=true&width=380&lines=Thanks+for+visiting!+%F0%9F%9A%80;Let's+build+something+amazing+🔥" />
+</p>
