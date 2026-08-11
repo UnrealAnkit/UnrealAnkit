@@ -59,10 +59,6 @@
   
 | Project | Description | Tech |
 |--------|-------------|------|
-| **CH2 World** | Healing ecosystem connecting science & soul | React · Next.js · TS |
-| **SHELeads** | Empowering women entrepreneurs | Next.js · Tailwind |
-| **RK Visa Solutions** | Immigration & consulting platform | SaaS · Next.js |
-| **AsliAstro** | AI-powered astrology engine | React · APIs |
 | **[PocketCode](https://github.com/UnrealAnkit/pocketcodeapk)** | Control your code editor from your phone. Android app plus desktop extension for terminal, files, Git, and agent activity without remoting the whole desktop. | Kotlin · TypeScript · Next.js |
 | **[OSMO DTF](https://github.com/UnrealAnkit/osmo)** | Decentralized Token Folios on Stellar. One token that holds a basket of Stellar assets with minting, pro-rata redemption, and live NAV from SEP-40 oracles. | Stellar · Soroban · Web3 |
 | **[SkillBond](https://github.com/UnrealAnkit/skillbond)** | Web3 accountability platform where users stake XLM on goals and unlock funds only after successful completion through trustless Stellar payouts. | Stellar · Soroban · Web3 |
