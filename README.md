@@ -10,7 +10,7 @@
 <p align="center">
 💡 I love building <b>real-world applications</b> <br/>
 🧠 Always learning · Always experimenting<br/>
-🔥 Currently working on <b>SaaS, AI & Web3</b><br/>
+🔥 Currently working on <b>AI communities, SaaS & Web3</b><br/>
 🎯 Manifesting success via <code>npm install</code>
 </p>
 
@@ -31,7 +31,7 @@
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UnrealAnkit&theme=react-dark&hide_border=true&radius=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UnrealAnkit&theme=react-dark&hide_border=true&radius=10" alt="Contribution graph" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 <h2 align="center">🏆 GitHub Trophy Showcase</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UnrealAnkit&theme=radical&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=UnrealAnkit&theme=radical&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub trophies" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
 <h2 align="center">🧰 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,postgres,tailwind,git,github,firebase,python,aws&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,postgres,tailwind,git,github,firebase,python,aws&perline=7" alt="Tech stack icons" />
 </p>
 
 ---
@@ -72,23 +72,27 @@
 
 | Company | Role | Duration |
 |---|---|---|
-| 🎮 Sanity Gaming | Full Stack Developer | Jun 2025 – Sep 2025 |
-| 🤖 AIPivot | Software Developer Intern | Dec 2024 – Mar 2025 |
-| 🌐 Devdock | Campus Ambassador | Ongoing |
+| 🚀 Gravity.fast | Community Growth Manager | Jul 2026 - Present |
+| 🌟 Stellar Development Foundation | Ambassador | Jun 2026 - Present |
+| 🤝 Zero Devs | Operations Manager | Jan 2025 - Jun 2026 |
+| 🤖 CyreneAI | Business Development | Feb 2026 - Apr 2026 |
+| 🌐 Devdock AI | Business Development Representative | Mar 2025 - Feb 2026 |
+| 💻 SHELeads India | Full-stack Developer | Jul 2025 - Nov 2025 |
+| 🎮 Sanity Gaming | Full Stack Developer Intern | Jun 2025 - Sep 2025 |
+| 🧠 AI Pivot | Full-stack Developer Intern | Dec 2024 - Apr 2025 |
 
 ---
 
 <h2 align="center">📬 Connect With Me</h2>
 
 <p align="center">
-  <a href="mailto:work.ankit2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:work.ankit2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/UnrealAnkit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://x.com/unrealankit"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 </p>
 
 ---
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
-```md
 ![snake gif](https://github.com/UnrealAnkit/UnrealAnkit/blob/output/github-contribution-grid-snake.svg)
